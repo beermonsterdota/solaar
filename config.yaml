@@ -29,7 +29,7 @@
     gesture2-divert, gesture2-params, sidetone, equalizer, adc_power_management]
   _battery: 4097
   _modelId: 4086C0900000
-  _sensitive: {dpi: true, hires-scroll-mode: ignore, hires-smooth-invert: ignore, hires-smooth-resolution: ignore}
+  _sensitive: {dpi: false, hires-scroll-mode: ignore, hires-smooth-invert: ignore, hires-smooth-resolution: ignore}
   _serial: 629E04F3
   _unitId: 629E04F3
   _wpid: '4086'
